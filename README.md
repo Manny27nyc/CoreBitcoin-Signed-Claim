@@ -1,6 +1,8 @@
 
 
 > ⚠️ **NOTICE:** This repository is protected under private authorship and is not licensed for public forking, reuse, or redistribution.
+
+📜 This repository has been formally reattributed. See [REATTRIBUTION.md](./REATTRIBUTION.md) for details.
 >
 > Unauthorized forks or derivative works are subject to:
 > - Immediate **DMCA takedown**
