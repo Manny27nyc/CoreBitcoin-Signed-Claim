@@ -1,28 +1,66 @@
-build
-binaries
-openssl/bin
-openssl/lib
-openssl/lib/engines
-openssl/lib/pkgconfig
-openssl/ssl
+# 🔒 CoreBitcoin-Signed-Claim Secure .gitignore
+# Maintained under authorship lock by Manuel J. Nieves (aka Satoshi Nakamoto)
+
+# Build artifacts
+build/
+*/build/
+binaries/
+*.o
+*.so
+*.dylib
+*.a
+*.out
+
+# OpenSSL generated paths
+openssl/
+openssl/bin/
+openssl/lib/
+openssl/lib/engines/
+openssl/lib/pkgconfig/
+openssl/ssl/
+
+# macOS junk
 .DS_Store
-*/build/*
+*.swp
+*.swo
+*.tmp
+
+# Xcode project files
 *.pbxuser
-!default.pbxuser
 *.mode1v3
-!default.mode1v3
 *.mode2v3
-!default.mode2v3
 *.perspectivev3
-!default.perspectivev3
-xcuserdata
+xcuserdata/
 *.moved-aside
-DerivedData
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/xcshareddata/
+
+# IDE/Editor
 .idea/
 *.hmap
+*.xcuserstate
 
-# svn & cvs
-.svn
-CVS
-CoreBitcoin.xcodeproj/project.xcworkspace/xcshareddata/
-openssl.bak
+# Security — authorship & key protection
+*.pem
+*.key
+*.asc
+*.gpg
+*.sig
+*.crt
+*.der
+*.p12
+*.pfx
+*.enc
+*.wallet
+*.sparsebundle
+*.dmg
+
+# Authorship proof artifacts
+AUTHENTICITY.md
+LICENSE.txt.backup
+SIGNED_*_AUTH.md
+
+# Git backups
+*.orig
+*.rej
+*.save
