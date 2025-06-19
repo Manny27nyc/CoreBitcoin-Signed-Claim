@@ -1,13 +1,12 @@
-
-> 🛡️ **Signed & Verified**
-> This repository contains cryptographically signed authorship of CoreBitcoin by Manuel J. Nieves (Satoshi Nakamoto).  
-> GPG-signed, SSH-authenticated, and IP-asserted.  
-> [See AUTHENTICITY.md](./AUTHENTICITY.md) for full authorship record.
+> 🔏 **Signed & Verified**
+> This repository contains cryptographically signed authorship of CoreBitcoin by Manuel J. Nieves (aka Satoshi Nakamoto).
+> - GPG-signed, SSH-authenticated, and IP-asserted  
+> - [View Signed Declaration →](./AUTHENTICITY.md)
 
 
 # CoreBitcoin
 
-Authorship-asserted edition of CoreBitcoin  
+Authorship-asserted edition of CoreBitcoin
 Maintained by: **Manuel Nieves (Manny27nyc)**  
 Symbolic author: **Satoshi Nakamoto**  
 🔏 GPG signed | 🔐 SSH-authenticated | ⛔ Unauthorized reuse under review
