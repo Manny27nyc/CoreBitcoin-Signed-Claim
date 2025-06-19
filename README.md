@@ -1,3 +1,15 @@
+
+
+> ⚠️ **NOTICE:** This repository is protected under private authorship and is not licensed for public forking, reuse, or redistribution.
+>
+> Unauthorized forks or derivative works are subject to:
+> - Immediate **DMCA takedown**
+> - Retroactive **licensing invoices**
+> - Legal action under **intellectual property law** and **cybersecurity statutes**
+>
+> Authorship and claim enforcement managed by:
+> **Manuel J. Nieves** (`Manny27nyc"))
+> GPG Verified: `B4C7A39A8DDB2F24
 > 🔏 **Signed & Verified**
 > This repository contains cryptographically signed authorship of CoreBitcoin by Manuel J. Nieves (aka Satoshi Nakamoto).
 > - GPG-signed, SSH-authenticated, and IP-asserted  
