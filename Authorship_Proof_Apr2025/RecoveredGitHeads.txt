@@ -1,0 +1,18 @@
+/Users/manuelnieves/bitcoin-authorship-proof: 5508042787a7548455c528ea262597c80ab3ba16
+/Users/manuelnieves/Library/Mobile Documents/.Trash/BuildingAnNFCTagReaderApp-1 2: 
+/Users/manuelnieves/CBDatabase: 3acf05fa1f606e81de611b8c78492281628e928e
+/Users/manuelnieves/Documents/circle-nodejs-sdk 2: 
+/Users/manuelnieves/Documents/electrum-server: 
+/Users/manuelnieves/Documents/terrascan 4: a00c1fd9c5c54eece49ab9a961d57879b68ea702
+/Users/manuelnieves/Documents/data-protection-mapping-project 3: 2ff78ec178fd5fbffac76bdfdbefea191c99f6c7
+/Users/manuelnieves/Documents/gyp-next: 
+/Users/manuelnieves/Documents/suspect_repo: 314e5b7490af6abcfff8167b51687bfe5e5dfbe1
+/Users/manuelnieves/Documents/bitcoin: 0c5cae06ea3ce5846e30cbfc3cc6786891efff43
+/Users/manuelnieves/Documents/multi-container-app 3: 244c4022238786c39a946d5c0faeb1237c8f01cf
+/Users/manuelnieves/BCHUnlimited: 55b3f09578cb63515253809ed34630aed28a814f
+/Users/manuelnieves/Downloads/uphold-python-sdk 2: 035858dcedeefd555ed969030ad24244d0643043
+/Users/manuelnieves/Downloads/bitcoin2: 8b3a02391c8b3e55355db38f143bdf9a9be80cf4
+/Users/manuelnieves/Downloads/BitcoinUnlimited: 05de381c02eb4bfca94957733acadfa217527f25
+/Users/manuelnieves/Downloads/eclipt-source: 6167dd52893003bf3084b4de6e7a0bab860caea0
+/Users/manuelnieves/Downloads/Bitcoin_Authorship_Enforcement: b083b373a121916cd968b9f2723e3948cae70dd6
+0c5cae06ea3ce5846e30cbfc3cc6786891efff43
