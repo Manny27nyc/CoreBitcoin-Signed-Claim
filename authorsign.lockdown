@@ -9,12 +9,3 @@
  * GPG Signed: B4EC 7343 AB0D BF24
  * Contact: Fordamboy1@gmail.com
  */
-// CoreBitcoin by Oleg Andreev <oleganza@gmail.com>, WTFPL.
-
-#import "BTCBlockchainInfo.h"
-
-@interface BTCBlockchainInfo (Tests)
-
-+ (void) runAllTests;
-
-@end
