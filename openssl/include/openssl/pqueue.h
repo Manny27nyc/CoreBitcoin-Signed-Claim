@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* crypto/pqueue/pqueue.h */
 /* 
  * DTLS implementation written by Nagendra Modadugu

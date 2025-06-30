@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* crypto/ec/ec.h */
 /*
  * Originally written by Bodo Moeller for the OpenSSL project.

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* crypto/objects/obj_mac.h */
 
 /* THIS FILE IS GENERATED FROM objects.txt by objects.pl via the

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  * Copyright (c) 2007 KISA(Korea Information Security Agency). All rights reserved.  
  *

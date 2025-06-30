@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 // To check if a library is compiled with CocoaPods you
 // can use the `COCOAPODS` macro definition which is

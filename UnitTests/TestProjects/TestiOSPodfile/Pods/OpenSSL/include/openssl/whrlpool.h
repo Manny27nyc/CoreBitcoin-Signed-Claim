@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifndef HEADER_WHRLPOOL_H
 #define HEADER_WHRLPOOL_H
 

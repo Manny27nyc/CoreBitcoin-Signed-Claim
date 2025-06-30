@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* crypto/ebcdic.h */
 
 #ifndef HEADER_EBCDIC_H

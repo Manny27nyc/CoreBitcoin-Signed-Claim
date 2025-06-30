@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* crypto/des/des_old.h -*- mode:C; c-file-style: "eay" -*- */
 
 /* WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING

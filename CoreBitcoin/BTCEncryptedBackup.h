@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // CoreBitcoin by Oleg Andreev <oleganza@gmail.com>, WTFPL.
 
 // Implementation of [Automatic Encrypted Wallet Backups](https://github.com/oleganza/bitcoin-papers/blob/master/AutomaticEncryptedWalletBackups.md) scheme.
